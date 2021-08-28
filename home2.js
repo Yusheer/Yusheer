@@ -140,7 +140,7 @@ function sortArr(arrayScore){
 
 
 
-/*let n1=getName();
+let n1=getName();
 let n2=getName();
 
 //removes spaces and convert to uppercase
@@ -154,7 +154,7 @@ if (calcMatch(toNum(s))<80){
 }else{
     console.log(name +" "+calcMatch(toNum(s))+"%, good match");
 }
-*/
+
 
 const csv = require('csv-parser');
 const fs = require('fs');
